@@ -1,0 +1,21 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    - requests
+    - wxpython
+    - twisted
+    - pygame
+    - pywin32
+    - ipython
+    - tensorflow
+    - pytorch
+    
+    
