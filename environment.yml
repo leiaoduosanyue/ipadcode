@@ -13,7 +13,7 @@ dependencies:
     - wxpython
     - twisted
     - pygame
-    - pywin32
+    
     - ipython
     - tensorflow
     - pytorch
